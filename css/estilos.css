@@ -1,0 +1,99 @@
+/*{outline: 1px solid red;} */
+
+
+
+
+body { background-color: rgb(248, 250, 130);
+        color:rgb(5, 3, 3);
+       
+
+}
+
+header, section {
+       
+        margin: 0 auto;
+       width: 70%;
+        
+
+}
+
+.portada {
+
+        text-align: center;
+}
+
+
+ul{
+
+        list-style-type: circle;
+}
+
+
+
+
+header {
+
+      
+        background-color: rgb(2, 78, 78);
+        max-width: 70%;
+       
+  
+}
+
+
+
+
+
+img {
+        max-width: 200px;
+        height: 200px;
+        margin-right: 50px;
+      
+}
+
+
+
+
+button {
+
+        font-size: 15px;
+       padding: 10px 20px;
+        margin: 50px 50px 50px 200px;
+        background-color: dimgray;
+      
+       
+}
+
+
+
+
+
+
+
+@media print {
+
+.btn  {
+visibility: hidden;
+
+    }
+}
+
+
+.datos {
+
+
+        font-family: Arial, Helvetica, sans-serif;
+       
+        list-style-type: georgian;
+}
+
+.titulos {
+
+        background-color: rgb(102, 104, 102);
+        text-align: center;
+       
+
+}
+
+
+
